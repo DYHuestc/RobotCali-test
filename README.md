@@ -1,3 +1,7 @@
+the ABB IRB 120 Robot location data is collected at the following link:
+https://github.com/Lizhibing1490183152/RobotCali
+
+“
 This position data of ABB IRB 120 robot can be used for robot calibration We provide RobotCali-new.xlsx with 1042 sample points of ABB IRB 120 robot, which can be used for the verification of manipulator calibration algorithm. You can read the following papers to understand the principle and methods of manipulator calibration. Here, x, y, z are the coordinates of the position of the robot’s end-effector in the base coordinate system, L is the length of the cable, q1, q2, q3, q4, q5, q6 are the joint angles of the robot.
 (1)Z. Li, S. Li, and X. Luo, “An Overview of Calibration Technology of Industrial Robots,” IEEE/CAA J. Autom. Sinica, vol. 8, no. 1, pp. 23-36, Jan. 2021.
 (2)Z. Li, S. Li, and X. Luo, “Data-driven Industrial Robot Arm Calibration: A Machine Learning Perspective,” 18th IEEE International Conference on Networking, Sensing and Control, 2021.
@@ -8,3 +12,4 @@ The least squares description:
 https://blog.csdn.net/sinat_38887014/article/details/103481076
 机器人RobotCali数据集解读https://blog.csdn.net/Libing111223/article/details/120967558?spm=1001.2014.3001.5501
 The illustrations of dataset “RobotCali“, https://blog.csdn.net/Libing111223/article/details/123495497
+”
